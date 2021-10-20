@@ -25,17 +25,17 @@ const Partner = () => {
             />
             <img
               className="self-end h-28 p-1 justify-self-center"
-              src="https://labaid.com.bd/UI/PublicUI/images/company/hosoital.jpg"
+              src="https://taniataslima.com/wp-content/uploads/2020/09/lazz.png"
               alt=""
             />
             <img
               className="self-end h-15 p-1 justify-self-center"
-              src="https://www.madrehealthcare.com/wp-content/uploads/2020/12/apollo-hospital-logo.png"
+              src="https://thefinancialexpress.com.bd/uploads/1506407995.jpg"
               alt=""
             />
             <img
               className="self-end h-15 p-1 justify-self-center"
-              src="https://www.assignmentpoint.com/wp-content/uploads/2014/03/square-hospitals.jpg"
+              src="https://www.protectivelife.com.bd/Images/Hosp/DIGILAB.png"
               alt=""
             />
           </div>
