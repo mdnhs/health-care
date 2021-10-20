@@ -76,7 +76,7 @@ const Login = () => {
       <div
         className="min-h-screen bg-no-repeat bg-cover bg-center"
         style={{
-          backgroundImage: `url('https://thumbs.dreamstime.com/z/sick-people-queue-doctors-office-hospital-characters-flu-symptoms-coughing-nurse-strolling-patient-sitting-wheelchair-166261068.jpg')`,
+          backgroundImage: `url('https://i.pinimg.com/564x/65/b5/50/65b550b1ba6868fcf5013884321b076b.jpg')`,
         }}
       >
         <div className="flex justify-end">
