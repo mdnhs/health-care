@@ -1,4 +1,4 @@
-# <img className="block lg:hidden h-8 w-auto" src="https://heart-care.netlify.app/static/media/hc-logo.9a04d506.png" alt="Heart Care"/>
+# <img src="https://heart-care.netlify.app/static/media/hc-logo.9a04d506.png" width="60" height="60" alt="Heart Care"/>
 
 <h1>Heart Care</h1>
 
