@@ -15,7 +15,9 @@ What I Using For Creating This Site
 - Firebase auth
 
 Description:
- Heart Care is a Bangladeshi consulting firm that helps innovators capture value in a complex and rapidly changing healthcare landscape. We help clients unlock the value of medical devices, diagnostics, and biopharmaceuticals that have the potential to transform patient care and significantly improve health outcomes.
+- A simple front-end-based health care website
+- This site has a login and register authen�ca�on system by firebase.
+- For any user to know the details of the service, he/her has to log in first.
 
 My Deploy Platform
 
